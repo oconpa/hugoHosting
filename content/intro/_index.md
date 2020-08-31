@@ -6,34 +6,35 @@ pre = "<b>1. </b>"
 +++
 
 ## What will we be building? 
-We will be building a smart Shopping List web application!
+We will be building a ML face detection gallery app!
 
-**Demo**: https://dev.d2jld5htjwnhsz.amplifyapp.com
+**Demo**: http://facial-hosting.s3-website-ap-southeast-2.amazonaws.com/
 
-![app-screenshot](/img/AppScreenshot.png)
-
+![app-gif](/img/DEMO.gif)
 
 ### Key Features
 
 There are five main components to this application
 1. **Frontend**
-   - A clean website user interface for our shopping list application
-   - Built using *React*, a framework for front-end development, enhancing the process of building user interfaces and websites.
-     **NOTE**: As the focus of this workshop is AWS, we will be providing the majority of the frontend code (except the code required to *connect* this frontend to AWS).
+   - A simple three paged web app made up of a home page, upload page and gallery.
+   - Built using ***React***, a framework for front-end development, enhancing the process of building user interfaces and websites.
+   
+   >**NOTE**: As the focus of this workshop is AWS, we will be providing the majority of the frontend code (except the code required to *connect* this frontend to AWS).
 
-2. **Authentication**
-   - Ability to log-in, sign up, forget password - all basic 'authentication' operations. 
-   - Ability to log-in with external providers, such as Google, Microsoft, Facebook, etc. 
-   - You must be authenticated to make requests to the backend
-3. **API + Backend**
-   - API Gateway that acts as the 'front door' to the backend
-   - Backend comprised of independent, serverless 'Lambda' functions
-4. **Database**
-   - Fetch all the items associated to a user
-   - Ability to create a new item
-   - Ability to delete an existing item
-5. **BONUS:** Integration with other services
-   - Use AI to recognise objects in images
-   - Allow users to add these recognised objects
+2. **Lambda (Backend)**
+   - The backbone to the website where all the logic for the sites happens. 
+   - Its made of of five routes (each will be explained further in depth later in the workshop) providing functionality to the app.
 
-These 5 components are the **basis** of almost **every** application. **AWS Amplify** makes creating and connecting all these components an extremely simple and streamlined process. With these 5 components, the possibilities are endless - you will have the skills to create a forum, a task tracker, a basic social media platform, and so much more. We hope that after this workshop, you will use these core components to build something greater!
+3. **API Gateway**
+   - API Gateway acts as the 'front door' to the backend.
+   - It creates URL links that allow us to channel data to the lambda backend and return information back, if we need, to the frontend.
+   
+4. **S3**
+   - S3 is amazons general storage space.
+   - Similar to your computers file system, on s3 you can store any type of file.
+
+5. **Rekognition**
+   - The backbone to Amazon's machine learning.
+   - Easily communicate with rekognition through the aws sdk seelcting from a range of ml models.
+
+With a rising potential on what machine learning has to offer, AWS offers an easy plug-n-play module to integrate machine learning services very easily. Machine learning can help your applications stand out and deliver a more personlised experience for your users. 

@@ -4,22 +4,24 @@ date: 2020-08-29T16:26:15+10:00
 draft: true
 ---
 
-# Beginner Workshop
+# Intermediate Workshop
 ___
 
 <!-- ![Poster](/images/amplify-workshop/serverlessposter.jpg "sada") -->
-### How to Build a Cloud-Native Full-Stack Web Application **using AWS Amplify**
+### How to Build a Facial Recognition Full-Stack Web Application **using AWS Rekognition**
 
-Welcome! 
+Welcome!
 
-This is a beginner workshop targetted at University students who are new to **Amazon Web Services**. The main question we seek to answer by the end of this workshop is:
+If you’ve built an application using **Amazon Web Services** in the past or understand key cloud concepts, this workshop is suited for you. You will use AWS Rekognition to build an online gallery of ML detections, and use AWS services to scan, detect and draw data science inferences from the scans.
 
-**How can I use AWS to enhance my own personal projects?**
+**What is Rekognition and how can I use it in my personal projects?**
 
-To answer this question, we will focus on using AWS to supercharge web development, specifically by:
+Glad you ask! Rekognition is Amazon's machine learning powerhouse, allowing you to detect from a wide range of plug'n'play models. Whether it's object detection, celerity detection, or even text from an image, AWS has the tools to easily plug ML capabilities into your site to stand out.
 
-1. Explaining the benefits of using AWS to build web applications.
-2. Providing a high-level overview of key AWS services, including Lambda, S3, Cognito, API gateway, etc.
-3. Using AWS Amplify to seamlessly connect a range of AWS services to produce a fullstack, serverless web application.
+In this workshop we will focus on building a fullstack face detection gallery app and highlight:
 
-We hope that by the end of this workshop, you will not only be confident using AWS in your own projects, but you will realise the vast range of possibilities the AWS has to offer.
+1. The benefits of using ML tools on AWS to build web applications.
+2. Provide a high-level overview of key AWS services, including Lambda, S3, API gateway, etc.
+3. Perfoming a simple data analysis on Rekognition results.
+
+And without further adieu **let's do this!**
