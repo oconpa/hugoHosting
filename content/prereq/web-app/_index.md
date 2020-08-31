@@ -13,7 +13,7 @@ ___
    git clone https://github.com/oconpa/facial_rekog_tute.git
    ```
    
-2. Move into the cloned directory, and install all required packages. 
+2. Move into the cloned directory and install all required packages. 
 
    ```bash
    cd facial_rekog_tute/frontend

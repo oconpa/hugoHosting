@@ -72,6 +72,6 @@ def doChart(event):
 
 **What's happened?**
 
-Here you can see that we've split up the doChart function into an age case and a smile case. Let decipher one of them to gain an understanding of what we are doing. First we pull a listing of the files currently in the bucket. We then loop through the file names looking to only grab the json files.
+Here you can see that we've split up the doChart function into an age case and a smile case. Let decipher one of them to gain an understanding of what we are doing. First, we pull a listing of the files currently in the bucket. We then loop through the file names looking to only grab the json files.
 
-We then perform some data manipulation looping through the content pulling an age indicator and adding it, or adding a counter to smile, on whether the people are smilling or not.
+We then perform some data manipulation looping through the content pulling an age indicator and adding it, or adding a counter to smile, on whether the people are smiling or not.

@@ -5,7 +5,7 @@ weight = 4
 pre = "<b>4. </b>"
 +++
 
-Now that we've got the storage unit set up, it time to actually set up a logical backend to push and pull as we need to this unit. 
+Now that we've got the storage unit set up, its time to actually set up a logical backend to push and pull as we need to this unit. 
 
 For the backend we are going to set up 5 routes each playing a crucial role in the app.
 

@@ -4,7 +4,7 @@ weight = 4
 pre = "<b>4.4 </b>"
 +++
 
-Listgallery will be used as a pull mechanism, to pull and display the exisitng images on the s3. This will allow the user to display a collection of images where anyone using the site can rapidly perform detections on previosuly uploaded images.
+Listgallery will be used as a pull mechanism, to pull and display the existing images on the s3. This will allow the user to display a collection of images where anyone using the site can rapidly perform detections on previously uploaded images.
 
 1. Similar to the last step copy the below code into your skeleton, replacing the skeleton function exactly so that it matches below.
 
@@ -34,4 +34,4 @@ def doListGallery(event):
 
 **What's happened?**
 
-What we are doing here is pulling the content of the bucket with s3.list_objects_v2. After we pull we have to filter out all the json files as these won't be needed. 
+What we are doing here is pulling the content of the bucket with s3.list_objects_v2. After we pull, we have to filter out all the json files as these won't be needed.

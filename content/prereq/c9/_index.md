@@ -7,9 +7,9 @@ pre = "<b>2.1 </b>"
 
 ___
 
-1. Goto your AWS console via this link: https://aws.amazon.com/
+1. Go to your AWS console via this link: https://aws.amazon.com/
 
-2. Search up 'Cloud 9' in the search bar, and click on the first option.
+2. Search up 'Cloud 9' in the search bar and click on the first option.
 
 3. Click 'Create Environment'
 

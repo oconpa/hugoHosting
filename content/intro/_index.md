@@ -23,7 +23,7 @@ There are five main components to this application
 
 2. **Lambda (Backend)**
    - The backbone to the website where all the logic for the sites happens. 
-   - Its made of of five routes (each will be explained further in depth later in the workshop) providing functionality to the app.
+   - It’s made of five routes (each will be explained further in depth later in the workshop) providing functionality to the app.
 
 3. **API Gateway**
    - API Gateway acts as the 'front door' to the backend.
@@ -35,6 +35,6 @@ There are five main components to this application
 
 5. **Rekognition**
    - The backbone to Amazon's machine learning.
-   - Easily communicate with rekognition through the aws sdk seelcting from a range of ml models.
+   - Easily communicate with rekognition through the aws sdk selecting from a range of ml models.
 
-With a rising potential on what machine learning has to offer, AWS offers an easy plug-n-play module to integrate machine learning services very easily. Machine learning can help your applications stand out and deliver a more personlised experience for your users. 
+With a rising potential on what machine learning has to offer, AWS offers an easy plug-n-play module to integrate machine learning services very easily. Machine learning can help your applications stand out and deliver a more personalised experience for your users.

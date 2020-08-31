@@ -8,4 +8,4 @@ pre = "<b>5.2 </b>"
 
 ![Deploy](/img/stage.png)
 
-2. You will see an **Invoke URL** copy this, you will need it in the front end app. This is the http endpoint, effectively the entry point to our lambda function from the world.
+2. You will see an **Invoke URL** copy this, you will need it in the front-end app. This is the http endpoint, effectively the entry point to our lambda function from the world.

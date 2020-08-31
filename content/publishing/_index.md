@@ -5,7 +5,7 @@ weight = 6
 pre = "<b>6. </b>"
 +++
 
-Awesome we're now ready to start connecting up our service with the backend. We've set up all our infrastructure to handle our needs, all that's left is connecting. So let's get started with the first connection. This step will show you how to connect the upload page up and test it.
+Awesome we're now ready to start connecting up our service with the backend. We've set up all our infrastructure to handle our needs, all that's left is connecting. So, let's get started with the first connection. This step will show you how to connect the upload page up and test it.
 
 1. Navigate back to your cloud 9. On line 37 of frontend/src/Components/Dropzone.js you will substitute **REPLACE ME** with the **Invoke URL** you copied from API Gateway. 
 
@@ -26,6 +26,6 @@ npm run start
 
 5. In the app, you will need to navigate to the upload page by opening up the left drawer menu. Once on the page, try uploading an image using the upload interface; preferably a facial image, to test whether your /upload and /detect routes work. Make sure to click **Scan**.
 
-6. If you've correctly followed the previous steps and all goes well, the site should save your image to the s3 with a json of detections and render the results, if their is at least one facial detection on the site.
+6. If you've correctly followed the previous steps and all goes well, the site should save your image to the s3 with a json of detections and render the results, if there is at least one facial detection on the site.
 
 **Note:** *The results should return in a few seconds, if you're waiting for a while check to make sure the invoke link you copied is correct or that your lambda code is formatted correctly (python is whitespace sensitive).*

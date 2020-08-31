@@ -4,7 +4,7 @@ weight = 1
 pre = "<b>4.1 </b>"
 +++
 
-Let's create our lambda and give it the approriate permissions.
+Let's create our lambda and give it the appropriate permissions.
 
 1. From the aws console, search up **Lambda** in the search bar, and click on the first option. If you can't find it click [here](https://ap-southeast-2.console.aws.amazon.com/lambda/home?region=ap-southeast-2#/functions)
 
@@ -34,4 +34,4 @@ Let's create our lambda and give it the approriate permissions.
 
 ***Make Note***
 
-Before we put in the code let's just take a step back and understand what we just did. In steps 1-4 we created our lambda. But in 5, 6 and 7, we actually gave it the permissions to use other services. AWS's model of permissions is to grant rather than strip. This means that when you first create your lambda, the permissions that lambda has is very minimal and so what we did was grant it permission to s3 and rekognition through Identity Access Managament. IAM is the central hub for all things permissions, it where we are allowing our lambda to use other services.
+Before we put in the code let's just take a step back and understand what we just did. In steps 1-4 we created our lambda. But in 5, 6 and 7, we actually gave it the permissions to use other services. AWS's model of permissions is to grant rather than strip. This means that when you first create your lambda, the permissions that lambda has is very minimal and so what we did was grant it permission to s3 and rekognition through Identity Access Management. IAM is the central hub for all thing’s permissions, it where we are allowing our lambda to use other services.
