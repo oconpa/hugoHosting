@@ -11,7 +11,7 @@ Well, well, I severely underestimated you. You make a worthy foe. Welcome to the
 
 The charts route is responsible for the summary data analysis on your gallery images. It will look to pull and summarise whether a person is smiling or not, but also categorise their age range. 
 
-In this ulimate challenge you will have to make a grand total of 9 edits in order to get the program to work.
+In this ulimate challenge you will have to make a grand total of 7 edits in order to get the program to work.
 
 **IMPORTANT:** The only code you should be changing is the **REPLACE ME** tags.
 
