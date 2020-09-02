@@ -70,6 +70,8 @@ def doChart(event):
     return json.dumps(chart)
 ```
 
+2. Make sure to **Save** your lambda before proceeding.
+
 **What's happened?**
 
 Here you can see that we've split up the doChart function into an age case and a smile case. Let decipher one of them to gain an understanding of what we are doing. First, we pull a listing of the files currently in the bucket. We then loop through the file names looking to only grab the json files.

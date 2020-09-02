@@ -7,7 +7,7 @@ pre = "<b>1.1 </b>"
 
 ![architecture](/img/Arch.png)
 
-The architecture above should give you a high overview view of the ML app's architecture. Each service is inter-related to the next, coming together in harmony to deliver the application. 
+The architecture above should give you a high overview of the ML app's architecture. Each service is inter-related to the next, coming together in harmony to deliver the application. 
 
 1. **Frontend**: The frontend is served from cloud9, symbolised as the cloud with a nine above. 
 2. **API Gateway**: Channel's the requests made by the react app to the backend lambda. 

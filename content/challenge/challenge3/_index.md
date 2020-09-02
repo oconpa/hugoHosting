@@ -7,10 +7,10 @@ pre = "<b>7.3 </b>"
 
 #### Connect gallery detection to React Frontend
 
-The gallery detection feature will allow user from the gallery to perform detections on previous image by pressing the tick icon on the top left of each image.
+Oh you finished the last challenge... Ok I see you want a real challenge, well get ready for this one. 
 
-1. Make sure you have the default **Invoke URL** copied into your clipboard from API Gateway, then go to your cloud 9.
+The gallery detection feature will allow the user from the gallery page to perform detections on previously uploaded images by pressing the tick icon on the top left of each image. 
 
-2. In frontend/src/Components/ImageGridList.js, on line 59 substitute **REPLACE ME** with the invoke URL.
+1. In this challenge you will have four edits to complete in order to complete this challenge. Remember you should only be editing the REPLACE ME's in the code, nothing else. And you should only be editing the contents of frontend/src/Components/ImageGridList.js.
 
-3. Test the app. To test the gallery detection, go to the gallery page. On the top left of each image should be a tick icon. If you click it, if all things go well you should get back detection for the image.
+2. Test the app. To test the gallery detection, go to the gallery page. On the top left of each image should be a tick icon. If you click it, if all things go well you should get back detection for the image.

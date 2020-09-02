@@ -5,7 +5,7 @@ weight = 4
 pre = "<b>4. </b>"
 +++
 
-Now that we've got the storage unit set up, its time to actually set up a logical backend to push and pull as we need to this unit. 
+Now that we've got the storage unit set up, its time to set up our backend which to talk to the bucket. In the coming slides we will no only push content to the bucket, but also pull it to populate our website.
 
 For the backend we are going to set up 5 routes each playing a crucial role in the app.
 
@@ -17,7 +17,7 @@ The upload route is designed to serve back a presigned URL to which will open a 
 
 2. **/detect**
 
-Detect is where the real magic happens. This route is responsible for in finding the image in the s3 bucket, performing an ML analysis, saving the results as a .json in the s3 and returning the results.
+Detect is where the real magic happens. This route is responsible for finding the image in the S3 bucket, performing an ML analysis, saving the results as a .json in the s3 and returning the results.
 
 3. **/listgallery**
 

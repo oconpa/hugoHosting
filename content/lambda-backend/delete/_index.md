@@ -4,7 +4,9 @@ weight = 5
 pre = "<b>4.5 </b>"
 +++
 
-1. From the gallery tab, let's say the user uploaded accidentally an embarrassing photo. He wants to erase it easily from the frontend rather than going to the bucket and deleting it from there. Well that what delete is for. Delete is a simple call to the backend, with the filename. The function scans through the bucket for both the image and json, deleting them once found.
+From the gallery tab, let's say the user uploaded accidentally an embarrassing photo. He wants to erase it easily from the frontend rather than going to the bucket and deleting it from there. Well that what delete is for. Delete is a simple call to the backend, with the filename. The function scans through the bucket for both the image and json, deleting them once found.
+
+1. Let's do this by copying the below code in the deDelete function.
 
 ```python
 def doDelete(event):
@@ -12,6 +14,7 @@ def doDelete(event):
     key = event['path'].split("/")[2]
     s3.delete_object( Bucket=bucket_name, Key=key )
     s3.delete_object( Bucket=bucket_name, Key=key + '.json' )
+    
     return json.dumps({'Message': 'Success'})
 ```
 

@@ -14,9 +14,7 @@ ___
 3. Click 'Create Environment'
 
 4. Set the **name** of your environment to be 'MLWorkshop'.\
+   Click 'Next Step'.  
+   Leave everything else as default.\
    Click 'Next Step'.\
-   Under 'Instance Type' select 'Other instance type', and search for **t2.micro** in the dropdown search.
-   
-5. Leave everything else as default.\
-   Click 'Next Step'.\
-   Click 'Create Environment'.
+   Click **Create Environment**.

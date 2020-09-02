@@ -31,10 +31,10 @@ There are five main components to this application
    
 4. **S3**
    - S3 is amazons general storage space.
-   - Similar to your computers file system, on s3 you can store any type of file.
+   - Similar to your computers file system, on S3 you can store any type of file.
 
 5. **Rekognition**
    - The backbone to Amazon's machine learning.
-   - Easily communicate with rekognition through the aws sdk selecting from a range of ml models.
+   - Easily communicate with rekognition through the AWS SDK selecting from a range of ML models.
 
 With a rising potential on what machine learning has to offer, AWS offers an easy plug-n-play module to integrate machine learning services very easily. Machine learning can help your applications stand out and deliver a more personalised experience for your users.

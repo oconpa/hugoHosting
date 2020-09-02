@@ -8,7 +8,7 @@ pre = "<b>3.1 </b>"
 
 2. Select **Create Bucket** on the s3 console.
     
-3. Name your bucket <pre>facial-detection-<b>Replace with your full name</b></pre>
+3. Name your bucket facial-detection-**Replace with your full name**
 
 *Make sure you replace with your full name where indicated above, leave the rest of the options as default.*
 

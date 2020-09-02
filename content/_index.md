@@ -11,7 +11,7 @@ ___
 
 Welcome!
 
-If you’ve built an application using **Amazon Web Services** in the past or understand key cloud concepts, this workshop is suited for you. You will use AWS Rekognition to build an online gallery of ML detections, and use AWS services to scan, detect and draw data science inferences from the scans.
+If you’ve built an application using **Amazon Web Services** in the past or understand key cloud concepts, this workshop is suited to you. You will use AWS Rekognition to build an online gallery of ML detections, and use AWS services to scan, detect and draw data science inferences from the scans.
 
 **What is Rekognition and how can I use it in my personal projects?**
 
@@ -21,6 +21,6 @@ In this workshop we will focus on building a full stack face detection gallery a
 
 1. The benefits of using ML tools on AWS to build web applications.
 2. Provide a high-level overview of key AWS services, including Lambda, S3, API gateway, etc.
-3. Preforming a simple data analysis on Rekognition results.
+3. Performing a simple data analysis on Rekognition results.
 
 And without further ado **let's do this!**
