@@ -8,7 +8,7 @@ pre = "<b>1. </b>"
 ## What will we be building? 
 We will be building a ML face detection gallery app!
 
-**Demo**: http://facial-hosting.s3-website-ap-southeast-2.amazonaws.com/
+**Demo**: [http://facial-hosting.s3-website-ap-southeast-2.amazonaws.com/](http://facial-hosting.s3-website-ap-southeast-2.amazonaws.com/)
 
 ![app-gif](/img/DEMO.gif)
 
