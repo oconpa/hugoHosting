@@ -7,11 +7,13 @@ pre = "<b>7.4 </b>"
 
 #### Connect charts to React Frontend
 
-Well, well, I severely underestimated you. You make a worthy foe. Welcome to the last and final chellenge. This challenge will not only test your frontend capabilities, but will also require you to have a look at your lambda for some help *hint hint*. 
+Well, well, I severely underestimated you. You make a worthy foe. Welcome to the last and final challenge. This challenge will not only test your frontend capabilities, but will also require you to have a look at your lambda for some help *hint hint*. 
 
 The charts route is responsible for the summary data analysis on your gallery images. It will look to pull and summarise whether a person is smiling or not, but also categorise their age range. 
 
-In this ulimate challenge you will have to make a grand total of 9 edits in order to get the program to work. **IMPORTANT:** The only code you should be changing is the **REPLACE ME** tags.
+In this ulimate challenge you will have to make a grand total of 9 edits in order to get the program to work.
+
+**IMPORTANT:** The only code you should be changing is the **REPLACE ME** tags.
 
 1. For this challenge you will need to:
 - Have copied your **Invoke URL**

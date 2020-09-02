@@ -9,6 +9,8 @@ pre = "<b>7. </b>"
 
 As you progress through the challenges, the instructions will become more vague with more tasks to complete. Don't be disheartened, try your best, we believe in you.
 
+**IMPORTANT:** During these challenges you will not be required to edit any code other than **REPLACE ME**. The challenge will test you in seeing if you can find the appropriate replacement for where ever the REPLACE ME's appear. 
+
 ![Challenge GIF](/img/challenge.gif)
 
 *For reference as you complete the challenges your app should run similar to **http://facial-hosting.s3-website-ap-southeast-2.amazonaws.com/***

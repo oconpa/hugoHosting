@@ -13,8 +13,8 @@ Let's create our lambda and give it the appropriate permissions.
 3. On the create function page:
 
 ```
-- Name your function <b>facial-detect</b>
-- Set your runtime to <b>Python 3.8</b>
+- Name your function: facial-detect
+- Set your runtime to: Python 3.8
 ```
 
 4. Click **Create function**
