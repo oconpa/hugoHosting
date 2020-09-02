@@ -85,7 +85,7 @@ def doChart(event):
     return json.dumps('Not Done yet')
 ```
 
-2. On line 6 you will need to replace **REPLACEME** with your full name so that bucket_name matches the bucket you created earlier on. E.g. if you named your bucket facial-detection-johnsmith, then line 6 would look like
+2. On line 10 you will need to replace **REPLACEME** with your full name so that bucket_name matches the bucket you created earlier on. E.g. if you named your bucket facial-detection-johnsmith, then line 6 would look like
 
 ```python
 bucket_name = "facial-detection-johnsmith"
