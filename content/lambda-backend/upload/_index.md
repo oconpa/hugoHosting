@@ -4,7 +4,7 @@ weight = 2
 pre = "<b>4.2 </b>"
 +++
 
-The upload route is used to open a temporary tunnel to the s3 from the frontend for just enough time to upload an image. Think of this as toll road for example. In the old days when travelling on toll roads you would come to a checkpoint. In order to pass the checkpoint, you would pay a specified fee, which in turn would allow you to pass and continue your journey.
+The upload route is used to open a temporary tunnel to the s3 from the frontend for just enough time to upload an image. Think of this as a toll road for example. In the old days when travelling on toll roads you would come to a checkpoint. In order to pass the checkpoint, you would pay a specified fee, which in turn would allow you to pass and continue your journey.
 
 ![Backend](/img/presigned.png)
 

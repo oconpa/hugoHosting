@@ -8,10 +8,9 @@ pre = "<b>5.1 </b>"
 
 ![Create REST](/img/restapi-1.png)
 
-2. We will be creating a new REST API, give your API a name, "rekognition" will work for this example.  Then click **Create API**
+*If you have never used API Gateway before when you click build, make sure on the next screen in the "Create new API" section you have **New API** selected rather than **example API**. Must match the below image.*
 
-*If you have never used API Gateway before when you click build, make sure on the next screen in the "Create new API" section you have **New API** selected rather than **example API**. Must match the below image.
-*
+2. We will be creating a new REST API, give your API a name, "rekognition" will work for this example.  Then click **Create API**
 
 ![Create REST](/img/restapi-2.png)
 
