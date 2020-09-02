@@ -27,7 +27,7 @@ ___
    
 4. Preview your Web Application
    
-   After the app has compiled successfully, click **Tools** in the toolbar up top, click **Preview** and finally click **Preview Running Application**. 
+   After the app has compiled with warnings (Don't worry we will fix these along the way), click **Tools** in the toolbar up top, click **Preview** and finally click **Preview Running Application**. 
    Open the preview in another tab by clicking the arrow / box button on the right of the search bar. 
 
 ![Preview](/img/preview.png)
