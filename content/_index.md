@@ -9,6 +9,8 @@ ___
 
 ### How to Build a Facial Recognition Full-Stack Web Application **using AWS Rekognition**
 
+![ML Welcome](/img/ML.jpeg)
+
 Welcome!
 
 If you’ve built an application using **Amazon Web Services** in the past or understand key cloud concepts, this workshop is suited to you. You will use AWS Rekognition to build an online gallery of ML detections, and use AWS services to scan, detect and draw data science inferences from the scans.
