@@ -1,6 +1,6 @@
 
 +++
-title = "Setting up Lambda Backend"
+title = "Setup Lambda Backend"
 weight = 4
 pre = "<b>4. </b>"
 +++
