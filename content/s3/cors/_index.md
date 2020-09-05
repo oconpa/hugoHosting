@@ -19,7 +19,7 @@ pre = "<b>3.2 </b>"
 
 2. Click **Save**
 
-![CORS Image](/img/CORS.png)
+![CORS Image](/img/s3cors.png)
 
 **Hang on a second! What's CORS?**
 
