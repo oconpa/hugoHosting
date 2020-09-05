@@ -14,5 +14,5 @@ pre = "<b>3.1 </b>"
 
 4. Click **Create** ( to the lower left, don't click next )
 
-![Create S3](/img/S3Create.png)
+![Create S3](/img/S3-Create.png)
   

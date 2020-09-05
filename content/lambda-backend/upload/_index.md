@@ -14,6 +14,8 @@ To upload the image, we are using this returned URL attaching our image to it an
 
 1. After attaching the policy, in the previous step, go back to your lambda (it should already be open in your browser on another tab) and under the **Configuration** tab in the **function code** section (scroll down on the lambda until you see a suitable place to paste code), paste:
 
+![Lambda Image](/img/lambdaConfig.png)
+
 **Note** *You will need to paste the below code over the existing default code that comes when you first create the lambda function.*
 
 ```python

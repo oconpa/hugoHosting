@@ -19,9 +19,11 @@ Let's create our lambda and give it the appropriate permissions.
 
 4. Click **Create function**
 
-![Lambda Image](/img/lambdaCreate.png)
+![Lambda Image](/img/lambda-Create.png)
 
 5. Once created and inside the lambda, click into the **Permissions** tab (located at the top of the lambda). Under **Execution role** (the first section under the new tab) will be a role name, Click it.
+
+![Lambda Image](/img/roleName.png)
 
 6. In the newly opened window click on the blue button **Attach policies**. Using the search bar, search for the following policies, checking the boxes once you've found them.
 
