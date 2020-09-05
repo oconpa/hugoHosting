@@ -10,7 +10,7 @@ ___
 1. Clone the current repository to your Cloud9 IDE
    
    ```bash
-   git clone https://github.com/oconpa/facial_rekog_tute.git
+   git clone https://github.com/oconpa/facial_rekog.git
    ```
    
 2. Move into the cloned directory and install all required packages. 
