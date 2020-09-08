@@ -16,7 +16,7 @@ ___
 2. Move into the cloned directory and install all required packages. 
 
    ```bash
-   cd facial_rekog_tute/frontend
+   cd facial_rekog/frontend
    npm install
    ```
    
