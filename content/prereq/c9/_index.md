@@ -9,6 +9,8 @@ ___
 
 1. Go to your AWS console via this link: https://aws.amazon.com/
 
+![Create C9](/img/CreateC9.png)
+
 2. Search up **Cloud 9** in the search bar and click on the first option, or click [here](https://ap-southeast-2.console.aws.amazon.com/cloud9/home?region=ap-southeast-2#).
 
 3. Click **Create Environment**

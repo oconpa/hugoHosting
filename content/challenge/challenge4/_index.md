@@ -19,6 +19,6 @@ In this ulimate challenge you will have to make a grand total of 7 edits in orde
 - Have copied your **Invoke URL**
 - Access to the lambda for referencing the chart route functionality
 
-2. You should only be making changes to frontend/src/Components/Charts.js.
+2. You should only be making changes to `frontend/src/Components/Charts.js`.
 
 3. Test the app. To test the charts feature, go to the gallery page. If you have some images in the gallery the charts at the bottom should be populated with smile and age metrics. For example, if you upload a 20-year-old person smiling then you should have one unit for smiling and one unit for 20-39-year-old on the charts.
